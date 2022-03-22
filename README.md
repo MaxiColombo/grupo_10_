@@ -7,8 +7,3 @@ Nuestro Ecommerce brinda bebidas alcoholicas a todo el pais, en nuestro catoalog
 2- Una breve descripción de los integrantes del equipo.
  
  Valentin Laurenzano
- 
- 
- 
- 
- 5
