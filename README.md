@@ -4,6 +4,4 @@ sitio. También agregar una breve descripción del público al que apunta el sit
 
 Nuestro Ecommerce brinda bebidas alcoholicas a todo el pais, en nuestro catoalogo se encuentran los prodcutos de cerveza, fernet, vodka, vino y licores. Apuntamos a un publico mayor de 18 años, con ganas de disfrutar momentos agradables con sus afectos. 
 
-2- Una breve descripción de los integrantes del equipo.
- 
- Valentin Laurenzano
+
